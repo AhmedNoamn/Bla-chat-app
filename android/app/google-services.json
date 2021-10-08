@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938967789139",
+    "project_id": "blachat-9feff",
+    "storage_bucket": "blachat-9feff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938967789139:android:3c715152d9801507a820a6",
+        "android_client_info": {
+          "package_name": "com.example.bla_bla_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938967789139-2qrsq9ojgmjph5gqi4utilhjuhas1p6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJWG4b5z9I7r5nNRL7k24tfKjUV-iyGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938967789139-2qrsq9ojgmjph5gqi4utilhjuhas1p6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
